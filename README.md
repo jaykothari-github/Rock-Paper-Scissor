@@ -10,7 +10,6 @@ Created Rock-Paper-Scissor or Stone-Paper-Scissor game using Tkinter module in p
 > Basically, This project is part of "Python GUI". And I've used **_tkinter_** module into it.
 I use button widgets and methods of random module to implement the game.
 
-> While, For getting values from entry field and evalute the equation. I've made functions.
 
 ## Screen Look:
 
